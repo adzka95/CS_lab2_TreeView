@@ -1,0 +1,10 @@
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab2\bin\Debug\lab2.exe.config
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab2\bin\Debug\lab2.exe
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab2\bin\Debug\lab2.pdb
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab2\obj\Debug\lab2.exe
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab2\obj\Debug\lab2.pdb
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab2\obj\Debug\lab2.menu.resources
